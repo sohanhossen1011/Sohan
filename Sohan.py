@@ -58,9 +58,9 @@ logo=("""\033[1;37m
  Facebook  : SOHAN
  Tool Name : FACEBOOK KING
  Type type : PAID
- Version   : 1.1.1
+ Version   : 1.1.0
 ----------------------------------------------
- FB KING Pro version 1.1.1
+ FB KING Pro version 1.1.0
  For Haters: Tumhare Okat Nhi Mere BAAJI chodne Ke 🤞
 \033[1;37m----------------------------------------------""")
 def linex():
